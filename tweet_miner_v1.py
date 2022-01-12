@@ -6,7 +6,7 @@ The script has been developed as a tool to help mine tweets. The script uses a s
 from a csv file and will collect tweets based on those statements on twitter. The collected data
 will be uploaded to a mongodb database and allows to obtain a local report of the collected data
 
-@author: Sergio
+@author: Sergio Muñoz González
 """
 
 #Imports
