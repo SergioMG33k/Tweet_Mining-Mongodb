@@ -23,7 +23,7 @@ Feel free to use my tool and make modifications.
         group Applied Intelligence and Data Analysis of the Polytechnic University of Madrid. If you do 
         not have access to this script, you must modify the code for generating queries where variable 'query' appears.
     Usage:
-    python Tweet_mining_v1.py [options]
+        python Tweet_mining_v1.py [options]
     Options:
         -t, --time          Number of days ago to search for tweets(0-since today,1-since yesterday...). By default: None(always)
         -f, --file          .csv path that contains statements for query generation and information retrieval
