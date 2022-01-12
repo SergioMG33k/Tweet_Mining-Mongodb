@@ -1,4 +1,4 @@
-# Tweet_Mining-Mongodb
+# Tweet_Miner-Mongodb
 The tweet_miner tool has been created to help mine twitter data such as hoaxes and fake news about covid and climate change in my Master Thesis. 
 The disinformation data was used to train and fine-tune artificial intelligence transformer models as well as to do analysis of data.
 In this repository there is also a folder called DATA with a .csv file that contains checked hoaxes collected from fact-checkers. These hoaxes will be used to mine related tweets on twitter and generate a NoSQL database with mongodb.
