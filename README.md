@@ -51,8 +51,8 @@ Feel free to use my tool and make modifications.
         python tweet_miner_v1.py -f C:\Users\Sergio\statements.csv
         --tw_api_log Api_Key/Api_Secret_Key/Access_Token/Access_Token_Secret 
         --mongo_log User_name/Password/Database/Collection
-        --tps 500
-        --max_count 20000
+        --tps 10000
+        --max_count 70000
         --time 2
-        Here we collect a maximum of 20000 tweets created in the last 2 days, limiting 500 tweets per statement 
+        Here we collect a maximum of 70000 tweets created in the last 2 days, limiting 10000 tweets per statement 
         
