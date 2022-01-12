@@ -5,7 +5,7 @@ In this repository there is also a folder called DATA with a .csv file that cont
 Feel free to use my tool and make modifications.
 
     Information:
-        Tweet_mining.py has been developed as a tool to help mine tweets. The script uses a set of statements
+        The script uses a set of statements
         from a csv file and will collect tweets based on those statements on twitter. The collected data
         will be uploaded to a mongodb database and allows to obtain a report of the collected data.
         The csv must contain a column with the name hoax_checked, based on the statements contained in
