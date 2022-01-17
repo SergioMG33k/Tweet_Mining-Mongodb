@@ -146,7 +146,7 @@ def extract_data(statement, tweets_count=None):
                                             language_code=options.language, 
                                             lemmatized=False, 
                                             level = 1,
-                                            top_n = 7, 
+                                            top_n = 5, 
                                             diversity = 0.2, 
                                             max_query_len = 1024
                                             )
