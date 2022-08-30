@@ -11,9 +11,9 @@ Feel free to use my tool and make modifications.
         The csv must contain a column with the name hoax_checked, based on the statements contained in
         this column, searches will be carried out on twitter to collect data.
         In the script you need to have access to a developer or academy account to use the api. You 
-        have to take into account the request limits in each respective case. It is also worth noting 
-        the data recovery time allowed by twitter, for an account academica standard only has access to
-        tweets published 7 days ago.
+        have to take into account the request limits in each respective case. It is also worth noting that 
+        the data recovery time allowed by twitter for a standard academic account only has access to
+        tweets published 7 days ago.With an academic research account you have full access to all twitter database
         Once the data is collected, it will be uploaded to mongodb, so it is necessary to enter the 
         credentials for storage in a database.
         The script allows to store locally a .csv file that will contain a report of the number of tweets 
