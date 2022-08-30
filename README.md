@@ -2,6 +2,7 @@
 The Tweet_Miner tool has been created to help mine twitter data such as hoaxes and fake news about covid, medical issues and climate change in my Master Thesis. 
 The disinformation data mined was used to carry out data analysis,sentiment analysis and different SNAs during the Master Project.
 In this repository there is also a folder called DATA with a .csv file that contains checked hoaxes collected from fact-checkers. These hoaxes will be used to mine related tweets on twitter and generate a NoSQL database with mongodb.
+The tweets mined through the api cannot be published due to the access and privacy policies of twitter, otherwise the academic account accessing the twitter API could be banned.
 Feel free to use my tool and make modifications.
 
     Information:
